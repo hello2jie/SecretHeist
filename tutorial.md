@@ -7,7 +7,7 @@
 ### **页面效果**
 
 ![image](./task.png)  
-![image](./create-task.png)
+![image](./create_task.png)
 
 ---
 
