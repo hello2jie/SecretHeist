@@ -36,9 +36,7 @@
 
 ```bash
 npm install -g zkapp-cli
-zkapp-cli create secret-heist
-cd secret-heist
-npm install
+zk project SecretHeist
 ```
 
 ---
