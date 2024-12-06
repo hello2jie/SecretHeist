@@ -1,3 +1,4 @@
-import { Add } from './Add.js';
+import { SecretHeist } from './SecretHeist.js';
 
-export { Add };
+export { SecretHeist };
+
